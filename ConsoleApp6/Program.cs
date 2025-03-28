@@ -2,8 +2,8 @@
 
 Group group = new Group("AB123", 111);
 
-Student student1 = new Student { Id = 1, Fullname = "John Doe", Point = 85 };
-Student student2 = new Student { Id = 2, Fullname = "Jane Smith", Point = 92 };
+Student student1 = new Student { Id = 1, Fullname = "Filankesov Filankes", Point = 85 };
+Student student2 = new Student { Id = 2, Fullname = "Jessica", Point = 92 };
 
 group.AddStudent(student1);
 group.AddStudent(student2);
